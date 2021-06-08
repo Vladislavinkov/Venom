@@ -1,5 +1,5 @@
 # Venom - учебный проект Glo Academy
- в проекте испоьзуеться
+ в проекте используеться
  - HTML
  - CSS
  - JavaScript
